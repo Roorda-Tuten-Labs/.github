@@ -1,5 +1,5 @@
 # Hello, Welcome to Roorda-Tuten Labs!
 
-Visit our [README](https://github.com/Roorda-Tuten-Labs/README) for info and resources.
+Visit our [README](https://github.com/Roorda-Tuten-Labs/README/wiki) for info and resources.
 
-[Contact/Trouble Shooting](https://tutenroordalabs.slack.com/archives/C04A032RD8V) channel on slack for any general/logistical questions.
+Message the [Trouble Shooting](https://tutenroordalabs.slack.com/archives/C04A032RD8V) channel on slack for any general/logistical questions.
