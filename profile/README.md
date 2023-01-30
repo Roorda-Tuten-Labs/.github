@@ -1,4 +1,4 @@
-# Hello, Welcome to Roorda-Tuten Labs!
+# Hello, Welcome to the Roorda-Tuten Labs!
 
 Visit our [README](https://github.com/Roorda-Tuten-Labs/README/wiki) for info and resources.
 
